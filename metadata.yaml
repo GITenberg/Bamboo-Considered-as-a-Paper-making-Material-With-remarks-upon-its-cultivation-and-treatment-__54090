@@ -1,0 +1,28 @@
+_repo: Bamboo-Considered-as-a-Paper-making-Material-With-remarks-upon-its-cultivation-and-treatment-__54090
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Routledge, Thomas
+    birthdate: 1819
+    deathdate: 1887
+    gutenberg_agent_id: '47704'
+    url: http://www.gutenberg.org/2009/agents/47704
+description: ''
+gutenberg_issued: '2017-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54090'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bamboo-pulp industry'
+- !lcsh 'Bamboo'
+- !lcsh 'Papermaking'
+- !lcc 'TS'
+- GITenberg
+title: "Bamboo, Considered as a Paper-making Material\r\nWith remarks upon its cultivation\
+  \ and treatment. Supplemented by a consideration of the present position of the\
+  \ paper trade in relation to the supply of raw material."
+url: http://www.gutenberg.org/ebooks/54090
